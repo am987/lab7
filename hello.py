@@ -1,1 +1,1 @@
-Nowy plik dla dockera
+print("Nowy plik dla dockera")
