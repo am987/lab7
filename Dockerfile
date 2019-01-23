@@ -7,5 +7,5 @@ RUN apt-get install -y python
 
 RUN git clone https://github.com/am987/lab7
 
-CMD ["python", "/lab7/hello.py"]
+CMD ["python", "/Documents/git/lab7/hello.py"]
 
